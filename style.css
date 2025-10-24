@@ -1,10 +1,11 @@
 :root {
-    --primary-color: #bd632f;
-    --secondary-color: #D8973C;
-    --neutral-color: #d8c99b;
-    --netural-dark: #273E47;
-    --accent-color: #A4343B;
+    --primary-color: #2f7fbd;
+    --secondary-color: #ffffff;
+    --neutral-color: #c914e1;
+    --netural-dark: #7e0aea;
+    --accent-color: #ffffff;
 }
+
 
 .container{
     background-color: var(--netural-dark);
